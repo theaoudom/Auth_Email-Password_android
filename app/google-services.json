@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049976083191",
+    "project_id": "auth-firebase-f5db5",
+    "storage_bucket": "auth-firebase-f5db5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049976083191:android:f8e9c166c8fef29a76f9f2",
+        "android_client_info": {
+          "package_name": "com.example.auth_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpz3y00K_Y20Nfj9JATa3ugu3vp4I-Aqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
